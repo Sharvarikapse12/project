@@ -1,0 +1,10 @@
+body{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.main{
+    height: 500px;
+    width: 350px;
+    border: 1px solid black;
+}
